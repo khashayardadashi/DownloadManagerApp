@@ -1,0 +1,14 @@
+C:\Users\Alpha\Desktop\Download manager\Download manager\bin\Debug\Download manager.exe.config
+C:\Users\Alpha\Desktop\Download manager\Download manager\bin\Debug\Download manager.exe
+C:\Users\Alpha\Desktop\Download manager\Download manager\bin\Debug\Download manager.pdb
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download manager.csproj.AssemblyReference.cache
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download_manager.Form1.resources
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download_manager.Properties.Resources.resources
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download manager.csproj.GenerateResource.cache
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download manager.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download manager.exe
+C:\Users\Alpha\Desktop\Download manager\Download manager\obj\Debug\Download manager.pdb
+C:\Users\Alpha\Desktop\download manager\Download manager\bin\Debug\Download manager.exe.manifest
+C:\Users\Alpha\Desktop\download manager\Download manager\bin\Debug\Download manager.application
+C:\Users\Alpha\Desktop\download manager\Download manager\obj\Debug\Download manager.exe.manifest
+C:\Users\Alpha\Desktop\download manager\Download manager\obj\Debug\Download manager.application
